@@ -1,6 +1,10 @@
 # not_to_do
 
-A new Flutter project.
+A new Flutter project to learn Flutter.
+
+## What is not_to_do
+
+not_to_do app will be an to-do list app but listing things that we have to avoid to do.
 
 ## Getting Started
 
